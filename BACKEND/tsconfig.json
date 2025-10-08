@@ -1,0 +1,27 @@
+{
+  "compilerOptions": {
+    /* === Paths === */
+    "rootDir": "src",
+    "outDir": "dist",
+
+    /* === Environment === */
+    "target": "ES2020",
+    "module": "CommonJS",
+    "lib": ["ESNext"],
+    "esModuleInterop": true,
+    "moduleResolution": "node",
+    "allowSyntheticDefaultImports": true,
+    "typeRoots": ["./node_modules/@types", "./types"],
+    /* === Type Checking === */
+    "strict": true,
+    "skipLibCheck": true,
+
+    /* === Source Maps === */
+    "sourceMap": true,
+
+    /* === Node types === */
+    "types": ["node"]
+  },
+  "include": ["src/**/*"],
+  "exclude": ["node_modules"]
+}
