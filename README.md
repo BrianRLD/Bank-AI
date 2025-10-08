@@ -59,7 +59,7 @@ Bank-Assistant/
 
 ### 1️⃣ Clone the repository
 
-#git clone https://github.com/BrianRLD/Bank-Assistant.git
+#git clone https://github.com/BrianRLD/Bank-AI.git
 #cd Bank-Assistant
 
 🧠 Key Features
