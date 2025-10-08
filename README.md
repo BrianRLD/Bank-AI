@@ -30,27 +30,6 @@ It also serves as a practical example of:
 
 ---
 
-## ⚙️ Project Structure
-Bank-Assistant/
-│
-├── backend/ # REST API with Express + PostgreSQL
-│ ├── controllers/
-│ ├── services/
-│ ├── routes/
-│ └── prisma/ (or db)
-│
-├── ai-service/ # Local AI service using Phi model
-│ ├── server.js
-│ └── routes/
-│
-├── frontend/ # React + TypeScript client interface
-│ ├── src/
-│ │ ├── pages/
-│ │ ├── components/
-│ │ └── api/
-│ └── public/
-│
-└── README.md
 
 
 ---
